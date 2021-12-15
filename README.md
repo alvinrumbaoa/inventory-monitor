@@ -1,11 +1,11 @@
 # Inventory Application (Innoventory)
 
-A progressive web application build to make inventory-solutions faster  
+A progressive web application build to make inventory-solutions faster.
 
-PROBLEMS: 
+Common Inventory Management Challenges
+
 - Repetition and Redundancy 
 - No specific ETA for Deliveries. 
-20 Common Inventory Management Challenges
 Inconsistent Tracking:
 Using manual inventory tracking procedures across different software and spreadsheets is time-consuming, redundant and vulnerable to errors. Even small businesses can benefit from a centralized inventory tracking system that includes accounting features.
 
