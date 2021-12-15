@@ -8,9 +8,8 @@ export default function Home() {
 
   return (
     <>
-    
-    <Flex w="100%" h="200px" bgGradient="linear(to-t, green.200, pink.500)"> 
-      
+    <Flex w="100%" h="100vh"> 
+
     </Flex>
     </>
   
